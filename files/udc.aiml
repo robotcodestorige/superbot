@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+  <category>
+    <pattern>*</pattern>
+    <template>I have no answer for that.</template>
+  </category>
+<category>
+    <pattern>Hi</pattern>
+    <template>
+😀 hi! What can I help you?</template>
+</category>
+<category>
+    <pattern>Hello</pattern>
+    <template>😀 hi! What can I help you?</template>
+</category>
+<category>
+    <pattern>Generate a Minecraft village seed</pattern>
+    <template>-6854760096381222526</template>
+</category>
+</aiml>
