@@ -7,14 +7,18 @@
 <category>
     <pattern>Hi</pattern>
     <template>
-😀 hi! What can I help you?</template>
+😀 hi! What can I help you with?</template>
 </category>
 <category>
     <pattern>Hello</pattern>
-    <template>😀 hi! What can I help you?</template>
+    <template>😀 hi! What can I help you with?</template>
 </category>
 <category>
     <pattern>Generate a Minecraft village seed</pattern>
     <template>-6854760096381222526</template>
+</category>
+<category>
+    <pattern>Generate a Map of NC, USA</pattern>
+    <template>Success! Go to uploadnow.io/f/7KvLpwp to get your map!</template>
 </category>
 </aiml>
