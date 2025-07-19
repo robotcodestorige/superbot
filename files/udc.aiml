@@ -25,4 +25,8 @@
     <pattern>Generate a site that makes your YouTube videos ad free</pattern>
     <template>Done! Visit pie.yt to get your videos ad free!</template>
 </category>
+<category>
+    <pattern>Generate a Adblocker </pattern>
+    <template>Go to chromewebstore.google.com/detail/pie-adblock-a-powerful-fr/jpkfgepcmmchgfbjblnodjhldacghenp?pli=1 to get your adblocker.</template>
+</category>
 </aiml>
