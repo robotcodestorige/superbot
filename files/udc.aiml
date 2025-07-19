@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <aiml>
   <category>
-    <pattern>*</pattern>
-    <template>I have no answer for that.</template>
+    <pattern></pattern>
+    <template>Is there something I can help you with today? I'm ready to assist!</template>
   </category>
 <category>
     <pattern>Hi</pattern>
@@ -20,5 +20,9 @@
 <category>
     <pattern>Generate a Map of NC, USA</pattern>
     <template>Success! Go to uploadnow.io/f/7KvLpwp to get your map!</template>
+</category>
+<category>
+    <pattern>Generate a site that makes your YouTube videos ad free</pattern>
+    <template>Done! Visit pie.yt to get your videos ad free!</template>
 </category>
 </aiml>
