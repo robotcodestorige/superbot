@@ -29,4 +29,12 @@
     <pattern>Generate a Adblocker </pattern>
     <template>Go to chromewebstore.google.com/detail/pie-adblock-a-powerful-fr/jpkfgepcmmchgfbjblnodjhldacghenp?pli=1 to get your adblocker.</template>
 </category>
+<category>
+    <pattern>What can you do </pattern>
+    <template>First of all I am connected to Gemini! (2.5 Flash, Deep Thinking) and Copilot (deep research).</template>
+</category>
+<category>
+    <pattern>Anything else </pattern>
+    <template>Edit bot response</template>
+</category>
 </aiml>
