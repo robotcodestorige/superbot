@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <aiml>
   <category>
-    <pattern></pattern>
+    <pattern>star</pattern>
     <template>Is there something I can help you with today? I'm ready to assist!</template>
   </category>
 <category>
@@ -34,7 +34,11 @@
     <template>First of all I am connected to Gemini! (2.5 Flash, Deep Thinking) and Copilot (deep research).</template>
 </category>
 <category>
-    <pattern>Anything else </pattern>
+    <pattern>Generate a text file on VEX robotics kits </pattern>
+    <template>Go to g.co/gemini/share/8391222c0eee</template>
+</category>
+<category>
+    <pattern>Calculate the optimal trajectory for a rocket to reach Mars, taking into account gravitational forces and fuel consumption</pattern>
     <template>Edit bot response</template>
 </category>
 </aiml>
